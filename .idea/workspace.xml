@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f199710-d602-4cb1-a4f1-63cb3b751f43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serverless.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +24,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../serverlessOne" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599016655784</updated>
-      <workItem from="1599016657069" duration="660000" />
+      <workItem from="1599016657069" duration="3599000" />
     </task>
     <servers />
   </component>
@@ -43,9 +44,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1599016704550">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1599058783735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="261" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599016704550" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599058783735" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599021782993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599021782993" />
   </component>
 </project>
